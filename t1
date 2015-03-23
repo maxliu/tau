@@ -1,0 +1,31 @@
+x = 1.0 * 2.0;
+n = (2 * 8)+3;
+log n;
+log x;
+y = "test str";
+z = true;
+m = false;
+log z;
+log m;
+log x;
+log y;
+log 1==2;
+log 1<2;
+if x == 2 {log "this is true";}
+if x == 32 {log "this is true";}
+else log "this is not true";
+
+c = 10;
+while c>0 {
+log c;
+c = c -1;
+
+}
+
+log "\ntesting until \n";
+c =10;
+{
+c = c-1;
+log c;
+} until c<=0
+ 

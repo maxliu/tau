@@ -1,0 +1,4 @@
+x = 7;
+log x;
+log -8;
+y = true
